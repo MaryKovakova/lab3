@@ -1,6 +1,6 @@
 # lab3
 Программное средство для визуализации аналитики задач проекта Apache Kafka
-# Для Windows:
+## Для Windows:
 # распаковка архива
 tar -xvzf C:\путь_к_архиву\имя_архива.tar.gz -C C:\путь_к_папке\где_будет_распакован_архив
 (например: tar -xvzf C:\Users\Admin\Downloads\lab3-1.0.tar.gz -C C:\Users\Admin\Downloads\)
