@@ -22,9 +22,7 @@ python get-pip.py
 ### установка проекта 
 
 ```bash
-cd Downloads\lab3-1.0
-
-python setup.py install
+python Downloads\lab3-1.0\setup.py install
 ```
 
 Поскольку в файле setup.py прописаны зависимости проекта в виде install_requires (и также продублированы в архиве в папке lab3.egg-info/requires.txt, то эти зависимости подгружаются автоматически во время запуска setup.py
@@ -32,9 +30,7 @@ python setup.py install
 ### запуск меню для построения графиков
 
 ```bash
-cd lab3
-
-python lab3_graphs.py
+python lab3\lab3_graphs.py
 ```
 
 ## Для Linux:
@@ -58,15 +54,11 @@ python get-pip.py
 ### установка проекта 
 
 ```bash
-cd Downloads/lab3-1.0
-
-python3 setup.py install
+python3 Downloads/lab3-1.0/setup.py install
 ```
 
 ### запуск меню для построения графиков
 
 ```bash
-cd lab3
-
-python3 lab3_graphs.py
+python3 lab3/lab3_graphs.py
 ```
