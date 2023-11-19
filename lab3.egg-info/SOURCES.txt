@@ -1,0 +1,10 @@
+README.md
+setup.py
+lab3/lab3_graphs.py
+lab3/lab3_module.py
+lab3/test.py
+lab3.egg-info/PKG-INFO
+lab3.egg-info/SOURCES.txt
+lab3.egg-info/dependency_links.txt
+lab3.egg-info/requires.txt
+lab3.egg-info/top_level.txt
